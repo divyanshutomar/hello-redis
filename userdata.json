@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Robles Reynolds",
+    "gender": "male",
+    "company": "DUOFLEX",
+    "email": "roblesreynolds@duoflex.com"
+  },
+  "2": {
+    "id": "2",
+    "name": "Charlene Preston",
+    "gender": "female",
+    "company": "NURPLEX",
+    "email": "charlenepreston@nurplex.com"
+  },
+  "3": {
+    "id": "3",
+    "name": "Wilcox Lawson",
+    "gender": "male",
+    "company": "EMERGENT",
+    "email": "wilcoxlawson@emergent.com"
+  },
+  "4": {
+    "id": "4",
+    "name": "Peters Ross",
+    "gender": "male",
+    "company": "ZORK",
+    "email": "petersross@zork.com"
+  },
+  "5": {
+    "id": "5",
+    "name": "Kathryn Stevens",
+    "gender": "female",
+    "company": "DARWINIUM",
+    "email": "kathrynstevens@darwinium.com"
+  }
+}

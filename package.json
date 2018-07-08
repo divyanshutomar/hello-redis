@@ -1,0 +1,24 @@
+{
+  "name": "hello-redis",
+  "version": "1.0.0",
+  "description": "Node based web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --print-width 80 --single-quote --trailing-comma es5 --write *.js"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "caching"
+  ],
+  "author": "Divyanshu Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {
+    "prettier": "1.13.7"
+  }
+}
